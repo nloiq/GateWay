@@ -19,3 +19,18 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+This README includes:
+1. Clear description of the project
+2. Installation instructions
+3. Configuration details
+4. Running instructions
+5. Logging information
+6. Contribution guidelines
+7. License information
+
+You may want to:
+- Add badges (build status, license, etc.)
+- Include screenshots if applicable
+- Add more detailed examples for specific use cases
+- Include troubleshooting information for common issues
