@@ -1,0 +1,122 @@
+[
+  {
+    "Address": 1762,
+    "Type": "SPI",
+    "Description": "Status Point 1762"
+  },
+  {
+    "Address": 1761,
+    "Type": "DPI",
+    "Description": "Digital Point 1761"
+  },
+  {
+    "Address": 1754,
+    "Type": "AMI",
+    "Description": "Analog Input 1754"
+  },
+  {
+    "Address": 1752,
+    "Type": "AMI",
+    "Description": "Analog Input 1752"
+  },
+  {
+    "Address": 1751,
+    "Type": "AMI",
+    "Description": "Analog Input 1751"
+  },
+  {
+    "Address": 1748,
+    "Type": "AMI",
+    "Description": "Analog Input 1748"
+  },
+  {
+    "Address": 1796,
+    "Type": "SPI",
+    "Description": "Status Point 1796"
+  },
+  {
+    "Address": 1795,
+    "Type": "DPI",
+    "Description": "Digital Point 1795"
+  },
+  {
+    "Address": 1788,
+    "Type": "AMI",
+    "Description": "Analog Input 1788"
+  },
+  {
+    "Address": 1786,
+    "Type": "AMI",
+    "Description": "Analog Input 1786"
+  },
+  {
+    "Address": 1785,
+    "Type": "AMI",
+    "Description": "Analog Input 1785"
+  },
+  {
+    "Address": 1782,
+    "Type": "AMI",
+    "Description": "Analog Input 1782"
+  },
+  {
+    "Address": 1813,
+    "Type": "SPI",
+    "Description": "Status Point 1813"
+  },
+  {
+    "Address": 1812,
+    "Type": "DPI",
+    "Description": "Digital Point 1812"
+  },
+  {
+    "Address": 1805,
+    "Type": "AMI",
+    "Description": "Analog Input 1805"
+  },
+  {
+    "Address": 1803,
+    "Type": "AMI",
+    "Description": "Analog Input 1803"
+  },
+  {
+    "Address": 1802,
+    "Type": "AMI",
+    "Description": "Analog Input 1802"
+  },
+  {
+    "Address": 1779,
+    "Type": "SPI",
+    "Description": "Status Point 1779"
+  },
+  {
+    "Address": 1778,
+    "Type": "DPI",
+    "Description": "Digital Point 1778"
+  },
+  {
+    "Address": 1775,
+    "Type": "AMI",
+    "Description": "Analog Input 1775"
+  },
+  {
+    "Address": 1771,
+    "Type": "AMI",
+    "Description": "Analog Input 1771"
+  },
+  {
+    "Address": 1769,
+    "Type": "AMI",
+    "Description": "Analog Input 1769"
+  },
+  {
+    "Address": 1768,
+    "Type": "AMI",
+    "Description": "Analog Input 1768"
+  },
+  {
+    "Address": 1765,
+    "Type": "AMI",
+    "Description": "Analog Input 1765"
+  }
+]
